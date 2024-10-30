@@ -175,3 +175,9 @@ a:hover {
 a:visited {
     color: #2ecc71;
 }
+.spaced-text {
+    letter-spacing: 3px;
+}
+h1, h2 {
+    font-family: "Roboto", sans-serif;
+}
